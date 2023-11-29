@@ -25,6 +25,12 @@ Specify walk/bike/car mode and calculate path distance instead of geo distance, 
 
 **Install & run**
 
+> python -m venv venv
+> 
+> ./venv/bin/activate for Linux or ./venv/Scripts/activate.bat for Windows 
+> 
 > pip install -r requirements.txt
+> 
 > cd src
-> python manage.py runserver
+> 
+> python manage.py runserver 
